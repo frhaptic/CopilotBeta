@@ -1,1 +1,1 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=frhaptic/CopilotBeta)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=frhaptic/CopilotBeta&file=https://github.com/frhaptic/CopilotBeta/blob/main/CopilotBetaPhase2.mlx&focus=true)
